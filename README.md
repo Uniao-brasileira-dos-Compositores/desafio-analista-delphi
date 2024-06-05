@@ -101,6 +101,6 @@ Elabore um algoritmo, utilizando pseudolinguagem (ou mesmo Pascal), que ao receb
 - Utilize uma API para preencher o endereço do titular ao digitar o CEP.
   - Pode usar a API "ViaCEP" [ViaCEP](https://viacep.com.br/)
 
-### Etapa 4: Entrega do Desafio
-
+### Etapa 4: Prazo e Entrega do Desafio
+- Prazo de 3 dias para entrega.
 - A entrega de todas as etapas deverá ser versionada no GitHub e compartilhado no e-mail.
