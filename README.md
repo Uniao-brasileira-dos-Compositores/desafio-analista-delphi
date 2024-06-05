@@ -103,4 +103,4 @@ Elabore um algoritmo, utilizando pseudolinguagem (ou mesmo Pascal), que ao receb
 
 ### Etapa 4: Entrega do Desafio
 
-- A entrega de todas as etapas deverá ser versionada no GitHub ([União Brasileira dos Compositores - Desafio Analista Delphi](https://github.com/Uniao-brasileira-dos-Compositores/desafio-analista-delphi)), bem como um backup zipado do banco de dados.
+- A entrega de todas as etapas deverá ser versionada no GitHub e compartilhado no e-mail.
